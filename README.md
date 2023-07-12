@@ -1,6 +1,12 @@
-![MasterHead](https://64.media.tumblr.com/c0e275c5c13cb9d9e18871101f0f2edd/tumblr_of1vpmNAuy1vi4eyho1_500.gifv)
+<div align="center">
+  <img src="https://64.media.tumblr.com/c0e275c5c13cb9d9e18871101f0f2edd/tumblr_of1vpmNAuy1vi4eyho1_500.gifv" alt="MasterHead">
+  
+</div>
+
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c97556aa0b201435b97fe706e274bb20/tumblr_oppkt2beWh1vi4eyho1_500.gifv">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhatra&label=Profile%20views&color=0e75b6&style=flat" alt="zhatra" /> </p>
 
