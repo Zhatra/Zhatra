@@ -4,11 +4,9 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate developer from Mexico</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c97556aa0b201435b97fe706e274bb20/tumblr_oppkt2beWh1vi4eyho1_500.gifv">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zhatra&label=Profile%20views&color=0e75b6&style=flat" alt="zhatra" /> </p>
 
 <p align="left"> <a href="https://twitter.com/crise404" target="blank"><img src="https://img.shields.io/twitter/follow/crise404?logo=twitter&style=for-the-badge" alt="crise404" /></a> </p>
 
@@ -30,3 +28,6 @@
 ![My stats](https://github-readme-stats.vercel.app/api?username=zhatra&show_icons=true&theme=tokyonight)
 ![My streak](https://github-readme-streak-stats.herokuapp.com/?user=zhatra&theme=tokyonight&hide_border=false)<br/>
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhatra&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### Profile Views:
+<p align="left"> <img src="https://count.getloli.com/get/@:zhatra?theme=rule34" alt="zhatra" /> </p>
