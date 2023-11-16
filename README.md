@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/crise404" target="blank"><img src="https://img.shields.io/twitter/follow/crise404?logo=twitter&style=for-the-badge" alt="crise404" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js and Tenserflow**
+- 🌱 I’m currently learning **web Development, Data Science and Machine Learning**
 
 - 📫 How to reach me **chrtaw@outlook.com**
 
