@@ -3,14 +3,14 @@
   <tr>
     <td style="border: none; padding: 20px; vertical-align: top; width: 45%; font-family: monospace; color: #aaa;">
       <pre style="color: #3dff3d; margin: 0; padding: 0; background: none; border: none; white-space: pre;">
-      :::::::::: ::::::::::: :::::::::
-            :+:      :+:     :+:    :+:
-          +:+       +:+     +:+    +:+
-        :++        +#+     +#++:++#:
-      +#+         +#+     +#+    +#+
-    #+#          #+#     #+#    #+#
-  #########     ###     ###    ###
-
+    :::::::::: ::::::::::: :::::::::
+          :+:      :+:     :+:    :+:
+        +:+       +:+     +:+    +:+
+      :++        +#+     +#++:++#:
+    +#+         +#+     +#+    +#+
+  #+#          #+#     #+#    #+#
+#########     ###     ###    ###
+<br>
 <span style="color: #3dff3d;">zatra@github:</span><span style="color: #eee;">~</span><span style="color: #3dff3d;">$</span> <span style="color: #fff;">whoami</span>
 <span style="color: #eee;">Full Stack Developer & AI Enthusiast</span>
 <span style="color: #eee;">Python, Django, JavaScript, Rust</span>
